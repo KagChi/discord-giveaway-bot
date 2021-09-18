@@ -9,3 +9,6 @@
 - Ganti `.env.example` ke .env
 - Isi semua value yang ada
 - jalankan `npm start`
+
+# Larangan keras
+- Menjual kembali source ini, source ini di lindungi oleh lisensi `BSD-3-CLAUSE`
